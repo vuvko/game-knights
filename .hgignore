@@ -1,8 +1,8 @@
 syntax: regexp
 
-.*\.exe$
-.*\.pdf$
+.*\.exe
+.*\.pdf
 Makefile
-.*\.odt$
+.*\.odt
 game-knights
 
