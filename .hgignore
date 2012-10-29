@@ -1,0 +1,8 @@
+syntax: regexp
+
+.*\.exe$
+.*\.pdf$
+Makefile
+.*\.odt$
+game-knights
+
